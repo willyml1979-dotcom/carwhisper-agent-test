@@ -1,0 +1,51 @@
+{
+ "snapshot": "2026-09-27T00:25:18",
+ "note": "Snapshot, not real-time availability. Confirm with dealer.",
+ "count": 2,
+ "vehicles": [
+  {
+   "year": 2019,
+   "make": "Cadillac",
+   "model": "Escalade Premium Luxury",
+   "model_slug": "escalade",
+   "trim_listing": "2019 Cadillac Escalade Premium Luxury | DRIVERS ASSIST PACKAGE | SUNROOF",
+   "condition": "used",
+   "propulsion": "gas/other (not stated)",
+   "propulsion_note": "inferred from model name, not stated by dealer",
+   "odometer_km": 112501,
+   "price_cad": 44998.0,
+   "price_note": null,
+   "color": "Black",
+   "dealer": "Go Kia West",
+   "city": "Coquitlam",
+   "province": "BC",
+   "vin": "1GYS4CKJ7KR179120",
+   "stock": "PW1425",
+   "last_verified": "2026-09-25T15:06:57",
+   "listing_url": "https://gokiawest.aioptics.ca/used/696fd28e59d6.html",
+   "dealer_url": "https://www.kiawest.com/vehicles/2019/cadillac/escalade/coquitlam/bc/71308644/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility"
+  },
+  {
+   "year": 2021,
+   "make": "Cadillac",
+   "model": "XT4 AWD Sport",
+   "model_slug": "xt4",
+   "trim_listing": "2021 Cadillac XT4 AWD Sport | SUN/SOUND PKG | COMFORT/CONVENIENCE PK",
+   "condition": "used",
+   "propulsion": "gas/other (not stated)",
+   "propulsion_note": "inferred from model name, not stated by dealer",
+   "odometer_km": 87996,
+   "price_cad": 27998.0,
+   "price_note": null,
+   "color": "Silver",
+   "dealer": "Go Kia West",
+   "city": "Coquitlam",
+   "province": "BC",
+   "vin": "1GYFZFR43MF045682",
+   "stock": "PC1289A",
+   "last_verified": "2026-09-25T02:33:41",
+   "listing_url": "https://gokiawest.aioptics.ca/used/a4c3f67c0bdd.html",
+   "dealer_url": "https://www.kiawest.com/vehicles/2021/cadillac/xt4/coquitlam/bc/71020173/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility"
+  }
+ ]
+}

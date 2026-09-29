@@ -1,0 +1,51 @@
+{
+ "snapshot": "2026-09-27T00:25:18",
+ "note": "Snapshot, not real-time availability. Confirm with dealer.",
+ "count": 2,
+ "vehicles": [
+  {
+   "year": 2017,
+   "make": "Lexus",
+   "model": "RX 350",
+   "model_slug": "rx",
+   "trim_listing": "2017 Lexus RX 350 | NAVIGATION | CREAM LEATHER | PUSH START | SU",
+   "condition": "used",
+   "propulsion": "gas/other (not stated)",
+   "propulsion_note": "inferred from model name, not stated by dealer",
+   "odometer_km": 85216,
+   "price_cad": 31498.0,
+   "price_note": null,
+   "color": "Brown",
+   "dealer": "Go Kia West",
+   "city": "Coquitlam",
+   "province": "BC",
+   "vin": "2T2BZMCA8HC063113",
+   "stock": "E463997",
+   "last_verified": "2026-09-25T02:34:07",
+   "listing_url": "https://gokiawest.aioptics.ca/used/51d1706b5dd5.html",
+   "dealer_url": "https://www.kiawest.com/vehicles/2017/lexus/rx/coquitlam/bc/70261895/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility"
+  },
+  {
+   "year": 2025,
+   "make": "Lexus",
+   "model": "NX Hybrid NX 350h",
+   "model_slug": "nx-hybrid",
+   "trim_listing": "2025 Lexus NX Hybrid NX 350h | SUNROOF | LEATHER | HEATED /COOLED SEAT",
+   "condition": "used",
+   "propulsion": "hybrid",
+   "propulsion_note": "inferred from model name, not stated by dealer",
+   "odometer_km": 18614,
+   "price_cad": 57798.0,
+   "price_note": null,
+   "color": "Grey",
+   "dealer": "Go Kia West",
+   "city": "Coquitlam",
+   "province": "BC",
+   "vin": "2T2GKCEZ2SC047973",
+   "stock": "PW1404",
+   "last_verified": "2026-09-26T12:14:00",
+   "listing_url": "https://gokiawest.aioptics.ca/used/175fe679d06c.html",
+   "dealer_url": "https://www.kiawest.com/vehicles/2025/lexus/nx-hybrid/coquitlam/bc/71207248/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility"
+  }
+ ]
+}

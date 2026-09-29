@@ -1,0 +1,29 @@
+{
+ "snapshot": "2026-09-27T00:25:18",
+ "note": "Snapshot, not real-time availability. Confirm with dealer.",
+ "count": 1,
+ "vehicles": [
+  {
+   "year": 2025,
+   "make": "Audi",
+   "model": "Q3 Progressiv",
+   "model_slug": "q3",
+   "trim_listing": "2025 Audi Q3 Progressiv | LEATHER | SUNROOF | HEATED SEAT | PUS",
+   "condition": "used",
+   "propulsion": "gas/other (not stated)",
+   "propulsion_note": "inferred from model name, not stated by dealer",
+   "odometer_km": 30424,
+   "price_cad": 35298.0,
+   "price_note": null,
+   "color": "Black",
+   "dealer": "Go Kia West",
+   "city": "Coquitlam",
+   "province": "BC",
+   "vin": "WA1EECF31S1112436",
+   "stock": "PW1362",
+   "last_verified": "2026-09-24T13:43:26",
+   "listing_url": "https://gokiawest.aioptics.ca/used/fec81e3e9fb9.html",
+   "dealer_url": "https://www.kiawest.com/vehicles/2025/audi/q3/coquitlam/bc/70670001/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility"
+  }
+ ]
+}

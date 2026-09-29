@@ -1,0 +1,29 @@
+{
+ "snapshot": "2026-09-27T00:25:18",
+ "note": "Snapshot, not real-time availability. Confirm with dealer.",
+ "count": 1,
+ "vehicles": [
+  {
+   "year": 2020,
+   "make": "Volvo",
+   "model": "V60 Cross Country T5",
+   "model_slug": "v60-cross-country",
+   "trim_listing": "2020 Volvo V60 Cross Country T5 | NAVIGATION | SUNROOF | LEATHER | HEATED SEAT",
+   "condition": "used",
+   "propulsion": "gas/other (not stated)",
+   "propulsion_note": "inferred from model name, not stated by dealer",
+   "odometer_km": 60851,
+   "price_cad": 30998.0,
+   "price_note": null,
+   "color": "Grey",
+   "dealer": "Go Kia West",
+   "city": "Coquitlam",
+   "province": "BC",
+   "vin": "YV4102WK9L1030957",
+   "stock": "KB63499",
+   "last_verified": "2026-09-25T21:38:56",
+   "listing_url": "https://gokiawest.aioptics.ca/used/6e613c0c80ae.html",
+   "dealer_url": "https://www.kiawest.com/vehicles/2020/volvo/v60-cross-country/coquitlam/bc/71343738/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility"
+  }
+ ]
+}

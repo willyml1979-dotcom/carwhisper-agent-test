@@ -1,0 +1,29 @@
+{
+ "snapshot": "2026-09-27T00:25:18",
+ "note": "Snapshot, not real-time availability. Confirm with dealer.",
+ "count": 1,
+ "vehicles": [
+  {
+   "year": 2024,
+   "make": "Genesis",
+   "model": "GV80 2.5T Advanced",
+   "model_slug": "gv80",
+   "trim_listing": "2024 Genesis GV80 2.5T Advanced | NAVIGATION | WHITE LEATHER | SUNRO",
+   "condition": "used",
+   "propulsion": "gas/other (not stated)",
+   "propulsion_note": "inferred from model name, not stated by dealer",
+   "odometer_km": 64500,
+   "price_cad": 45498.0,
+   "price_note": null,
+   "color": "Silver",
+   "dealer": "Go Kia West",
+   "city": "Coquitlam",
+   "province": "BC",
+   "vin": "KMUHBDSB4RU148934",
+   "stock": "PL0148",
+   "last_verified": "2026-09-25T08:54:04",
+   "listing_url": "https://gokiawest.aioptics.ca/used/7e37fcc6144c.html",
+   "dealer_url": "https://www.kiawest.com/vehicles/2024/genesis/gv80/coquitlam/bc/71062430/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility"
+  }
+ ]
+}

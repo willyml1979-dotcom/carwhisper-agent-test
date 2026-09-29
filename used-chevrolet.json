@@ -1,0 +1,29 @@
+{
+ "snapshot": "2026-09-27T00:25:18",
+ "note": "Snapshot, not real-time availability. Confirm with dealer.",
+ "count": 1,
+ "vehicles": [
+  {
+   "year": 2025,
+   "make": "Chevrolet",
+   "model": "Equinox EV RS",
+   "model_slug": "equinox-ev",
+   "trim_listing": "2025 Chevrolet Equinox EV RS | NAVIGATION | PWR DR SEAT | HEATED SEAT | LEAT",
+   "condition": "used",
+   "propulsion": "electric",
+   "propulsion_note": "inferred from model name, not stated by dealer",
+   "odometer_km": 91669,
+   "price_cad": 33498.0,
+   "price_note": null,
+   "color": "White",
+   "dealer": "Go Kia West",
+   "city": "Coquitlam",
+   "province": "BC",
+   "vin": "3GN7DSRP2SS181278",
+   "stock": "E968938",
+   "last_verified": "2026-09-24T13:43:36",
+   "listing_url": "https://gokiawest.aioptics.ca/used/819a05513255.html",
+   "dealer_url": "https://www.kiawest.com/vehicles/2025/chevrolet/equinox-ev/coquitlam/bc/70357096/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility"
+  }
+ ]
+}

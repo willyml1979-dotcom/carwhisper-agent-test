@@ -1,0 +1,436 @@
+{
+ "coverage": {
+  "dealers": [
+   {
+    "name": "Go Kia West",
+    "city": "Coquitlam",
+    "province": "BC",
+    "snapshot": "2026-09-27T00:25:18",
+    "vehicles": 705
+   }
+  ],
+  "not_covered": "Any dealer, city or make not listed here is NOT covered by these sources. Absence here does not mean the vehicle does not exist."
+ },
+ "failed_feeds": [],
+ "how_to_use": "Match condition+make(+model) in \"files\", open that file, show at most 3-5 units.",
+ "files": [
+  {
+   "condition": "new",
+   "make": "kia",
+   "models": [
+    "carnival"
+   ],
+   "count": 24,
+   "file": "new-kia-carnival.json"
+  },
+  {
+   "condition": "new",
+   "make": "kia",
+   "models": [
+    "carnival-hybrid"
+   ],
+   "count": 11,
+   "file": "new-kia-carnival-hybrid.json"
+  },
+  {
+   "condition": "new",
+   "make": "kia",
+   "models": [
+    "ev3"
+   ],
+   "count": 6,
+   "file": "new-kia-ev3.json"
+  },
+  {
+   "condition": "new",
+   "make": "kia",
+   "models": [
+    "ev4"
+   ],
+   "count": 8,
+   "file": "new-kia-ev4.json"
+  },
+  {
+   "condition": "new",
+   "make": "kia",
+   "models": [
+    "ev5"
+   ],
+   "count": 14,
+   "file": "new-kia-ev5.json"
+  },
+  {
+   "condition": "new",
+   "make": "kia",
+   "models": [
+    "ev9"
+   ],
+   "count": 12,
+   "file": "new-kia-ev9.json"
+  },
+  {
+   "condition": "new",
+   "make": "kia",
+   "models": [
+    "k4"
+   ],
+   "count": 48,
+   "file": "new-kia-k4.json"
+  },
+  {
+   "condition": "new",
+   "make": "kia",
+   "models": [
+    "k4-hatchback"
+   ],
+   "count": 7,
+   "file": "new-kia-k4-hatchback.json"
+  },
+  {
+   "condition": "new",
+   "make": "kia",
+   "models": [
+    "niro-ev"
+   ],
+   "count": 92,
+   "file": "new-kia-niro-ev.json"
+  },
+  {
+   "condition": "new",
+   "make": "kia",
+   "models": [
+    "niro-hybrid"
+   ],
+   "count": 10,
+   "file": "new-kia-niro-hybrid.json"
+  },
+  {
+   "condition": "new",
+   "make": "kia",
+   "models": [
+    "seltos"
+   ],
+   "count": 92,
+   "file": "new-kia-seltos.json"
+  },
+  {
+   "condition": "new",
+   "make": "kia",
+   "models": [
+    "sorento"
+   ],
+   "count": 1,
+   "file": "new-kia-sorento.json"
+  },
+  {
+   "condition": "new",
+   "make": "kia",
+   "models": [
+    "sorento-hybrid"
+   ],
+   "count": 20,
+   "file": "new-kia-sorento-hybrid.json"
+  },
+  {
+   "condition": "new",
+   "make": "kia",
+   "models": [
+    "sorento-plug-in-hybrid"
+   ],
+   "count": 7,
+   "file": "new-kia-sorento-plug-in-hybrid.json"
+  },
+  {
+   "condition": "new",
+   "make": "kia",
+   "models": [
+    "sportage"
+   ],
+   "count": 91,
+   "file": "new-kia-sportage.json"
+  },
+  {
+   "condition": "new",
+   "make": "kia",
+   "models": [
+    "sportage-hybrid"
+   ],
+   "count": 79,
+   "file": "new-kia-sportage-hybrid.json"
+  },
+  {
+   "condition": "new",
+   "make": "kia",
+   "models": [
+    "sportage-plug-in-hybrid"
+   ],
+   "count": 5,
+   "file": "new-kia-sportage-plug-in-hybrid.json"
+  },
+  {
+   "condition": "used",
+   "make": "acura",
+   "models": [
+    "rdx"
+   ],
+   "count": 1,
+   "file": "used-acura.json"
+  },
+  {
+   "condition": "used",
+   "make": "audi",
+   "models": [
+    "q3"
+   ],
+   "count": 1,
+   "file": "used-audi.json"
+  },
+  {
+   "condition": "used",
+   "make": "bmw",
+   "models": [
+    "3-series-sedan",
+    "5-series-sedan",
+    "ix",
+    "m4-coupe"
+   ],
+   "count": 4,
+   "file": "used-bmw.json"
+  },
+  {
+   "condition": "used",
+   "make": "cadillac",
+   "models": [
+    "escalade",
+    "xt4"
+   ],
+   "count": 2,
+   "file": "used-cadillac.json"
+  },
+  {
+   "condition": "used",
+   "make": "chevrolet",
+   "models": [
+    "equinox-ev"
+   ],
+   "count": 1,
+   "file": "used-chevrolet.json"
+  },
+  {
+   "condition": "used",
+   "make": "dodge",
+   "models": [
+    "durango",
+    "grand-caravan-passenger-van"
+   ],
+   "count": 2,
+   "file": "used-dodge.json"
+  },
+  {
+   "condition": "used",
+   "make": "ford",
+   "models": [
+    "escape",
+    "escape-hybrid",
+    "expedition-max",
+    "explorer",
+    "maverick"
+   ],
+   "count": 6,
+   "file": "used-ford.json"
+  },
+  {
+   "condition": "used",
+   "make": "genesis",
+   "models": [
+    "gv80"
+   ],
+   "count": 1,
+   "file": "used-genesis.json"
+  },
+  {
+   "condition": "used",
+   "make": "honda",
+   "models": [
+    "accord-hybrid",
+    "accord-sedan",
+    "civic-sedan",
+    "cr-v",
+    "cr-v-hybrid",
+    "fit",
+    "hr-v",
+    "odyssey"
+   ],
+   "count": 23,
+   "file": "used-honda.json"
+  },
+  {
+   "condition": "used",
+   "make": "hyundai",
+   "models": [
+    "elantra",
+    "ioniq-5",
+    "kona",
+    "kona-electric",
+    "palisade",
+    "santa-cruz",
+    "santa-fe",
+    "santa-fe-hybrid",
+    "santa-fe-sport",
+    "sonata",
+    "tucson",
+    "venue"
+   ],
+   "count": 21,
+   "file": "used-hyundai.json"
+  },
+  {
+   "condition": "used",
+   "make": "kia",
+   "models": [
+    "carnival",
+    "ev6",
+    "ev9",
+    "forte-sedan",
+    "k4",
+    "k5",
+    "niro-ev",
+    "niro-plug-in-hybrid",
+    "rio-hatchback-5-door",
+    "sedona",
+    "seltos",
+    "sorento",
+    "sorento-hybrid",
+    "sorento-plug-in-hybrid",
+    "soul",
+    "sportage",
+    "sportage-hybrid",
+    "stinger",
+    "telluride"
+   ],
+   "count": 64,
+   "file": "used-kia.json"
+  },
+  {
+   "condition": "used",
+   "make": "lexus",
+   "models": [
+    "nx-hybrid",
+    "rx"
+   ],
+   "count": 2,
+   "file": "used-lexus.json"
+  },
+  {
+   "condition": "used",
+   "make": "mazda",
+   "models": [
+    "cx-30",
+    "cx-5"
+   ],
+   "count": 5,
+   "file": "used-mazda.json"
+  },
+  {
+   "condition": "used",
+   "make": "mercedes-benz",
+   "models": [
+    "b-class",
+    "c-class-sedan",
+    "gle",
+    "glk-class",
+    "m-class",
+    "sprinter-cargo-van"
+   ],
+   "count": 8,
+   "file": "used-mercedes-benz.json"
+  },
+  {
+   "condition": "used",
+   "make": "mitsubishi",
+   "models": [
+    "outlander",
+    "rvr"
+   ],
+   "count": 5,
+   "file": "used-mitsubishi.json"
+  },
+  {
+   "condition": "used",
+   "make": "nissan",
+   "models": [
+    "altima",
+    "ariya",
+    "qashqai",
+    "rogue",
+    "sentra-sedan"
+   ],
+   "count": 12,
+   "file": "used-nissan.json"
+  },
+  {
+   "condition": "used",
+   "make": "ram",
+   "models": [
+    "1500-crew-cab",
+    "promaster-cargo-van"
+   ],
+   "count": 3,
+   "file": "used-ram.json"
+  },
+  {
+   "condition": "used",
+   "make": "subaru",
+   "models": [
+    "crosstrek",
+    "legacy-sedan",
+    "outback"
+   ],
+   "count": 3,
+   "file": "used-subaru.json"
+  },
+  {
+   "condition": "used",
+   "make": "tesla",
+   "models": [
+    "model-y"
+   ],
+   "count": 1,
+   "file": "used-tesla.json"
+  },
+  {
+   "condition": "used",
+   "make": "toyota",
+   "models": [
+    "camry-sedan",
+    "corolla-hybrid",
+    "prius-plug-in-hybrid"
+   ],
+   "count": 3,
+   "file": "used-toyota.json"
+  },
+  {
+   "condition": "used",
+   "make": "volkswagen",
+   "models": [
+    "atlas",
+    "golf-r",
+    "id.4",
+    "jetta-sedan",
+    "taos",
+    "tiguan"
+   ],
+   "count": 9,
+   "file": "used-volkswagen.json"
+  },
+  {
+   "condition": "used",
+   "make": "volvo",
+   "models": [
+    "v60-cross-country"
+   ],
+   "count": 1,
+   "file": "used-volvo.json"
+  }
+ ]
+}
